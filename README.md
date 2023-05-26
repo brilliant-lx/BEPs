@@ -28,13 +28,24 @@ Here is the list of subjects of BEPs:
 | [BEP-91](BEP91.md)   | Increase Block Gas Ceiling for BNB Smart Chain             | Standards | Enabled |
 | [BEP-93](BEP93.md)   | Diff Sync Protocol on BSC                                  | Standards | Enabled |
 | [BEP-95](BEP95.md)   | Introduce Real-Time Burning Mechanism                      | Standards | Enabled |
+| [BEP-126](BEP126.md) | Introduce Fast Finality Mechanism                          | Standards | Draft   |
 | [BEP-127](BEP127.md) | Temporary Maintenance Mode for Validators                  | Standards | Enabled |
 | [BEP-128](BEP128.md) | Improvement on BNB Smart Chain Staking Reward Distribution | Standards | Enabled |
 | [BEP-131](BEP131.md) | Introduce candidate validators onto BNB Smart Chain        | Standards | Enabled |
 | [BEP-151](BEP151.md) | Decommission Decentralized Exchange on BNB Beacon Chain    | Standards | Enabled |
 | [BEP-153](BEP153.md) | Introduce native staking onto BNB Smart Chain              | Standards | Enabled |
 | [BEP-159](BEP159.md) | Introduce A New Staking Mechanism on BNB Beacon Chain      | Standards | Draft   |
+| [BEP-171](BEP171.md) | Security Enhancement for Cross-Chain Module                | Standards | Draft   |
+| [BEP-172](BEP172.md) | Network Stability Enhancement On Slash Occur               | Standards | Draft   |
 | [BEP-173](BEP173.md) | Introduce Text Governance Proposal for BNB Smart Chain     | Standards | Enabled |
+| [BEP-174](BEP174.md) | Cross Chain Relayer Management                             | Standards | Draft   |
+| [BEP-188](BEP188.md) | Early Broadcast Mature Block For In-Turn Validators        | Standards | Draft   |
+
+# BNB Chain Upgrades
+[BNB Chain Upgrades(Mainnet): History & Forecast](https://forum.bnbchain.org/t/bnb-chain-upgrades-mainnet/936)
+
+[BNB Chain Upgrades(Testnet): History & Forecast](https://forum.bnbchain.org/t/bnb-chain-upgrades-testnet/934)
+
 
 # How To Contribute A BEP
 If you have an idea and want to make it a BEP, you may refer [BEP-1](BEP1.md)
